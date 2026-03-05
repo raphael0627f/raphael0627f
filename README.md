@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Backend Developer | Java + Spring Boot  
-📚 Apaixonado por aprender e criar soluções inteligentes  
+📚 Sempre aprendendo e criando soluções inteligentes  
 🚀 Atualmente trabalhando em projetos com Java + Spring
 
 ## 🧰 Tecnologias que uso
